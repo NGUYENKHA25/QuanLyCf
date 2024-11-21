@@ -1,0 +1,14 @@
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.AssemblyReference.cache
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.cache
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+C:\Users\ngock\source\repos\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
